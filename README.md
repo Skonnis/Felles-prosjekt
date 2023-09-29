@@ -8,7 +8,7 @@ Jeg har noen baktanker bak akkurat dette:
     - Felleskap er alltid bra (når vi samarbeider kan det gjøre det enklere å holde seg motivert, enklere å lære, og det vil generelt blir enklere på flere ting)
     - Portefølje skader ikke (vi kan skape et kult produkt, og ettersom at alt ligger på GitHub kan du vise det frem ved en evt. jobbsøknad)
 
-Jeg har i tillegg til main branch, hvor jeg har legger ut mapper som inneholder ulike rammeverk til å lage en nettside, også lagt ut to andre branches. Disse kan brukes til å jobbe helt spesifikt med front-end eller back-end (vil legge til en ekstra som er for begge to, altså full-stack), og her kan man legge til prosjekter som man holder på med alene, men som man ønsker veiledning på eller tilbyr samarbeid. Du kan også publisere egne prosjekter som du ikke ønsker samarbeid på, men husk å laste opp filen i en mappe som heter "ditt navn_privat". 
+Jeg har ikke helt forstått hvordan man legger til kode/mapper til andre branches enn main, så jeg velger å fjerne de å gjøre det litt mer manuelt:) Det betyr at alt av kode som blir "pushet" til denne repositorien, vil bli lagt til i main branchen. Dersom dere ønsker å dele kode dere har laget, men ikke vil andre skal gjøre noe med det (altså at de kun kan se på koden din), så laster du opp koden i en mappe som heter "navn_privat". Skal få fikset opp etterhvert, slik at det faktisk ikke må være så manuelt, men det har jeg ikke kunnskap til å gjennomføre nå dessverre. 
 
 Det er alt, kos deg med kodingen:=)
 
