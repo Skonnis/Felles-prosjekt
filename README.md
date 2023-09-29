@@ -1,3 +1,4 @@
+
 Velkommen!
 
 Dette er et repository som jeg hovedsakelig har laget for vennene mine på studiet Informasjonsvitenskap på UiB. Dersom du ikke er en av de så skal jeg ikke hindre deg fra å delta, men ønsker at du tar hensyn til de som er "contributors" av dette prosjektet.
